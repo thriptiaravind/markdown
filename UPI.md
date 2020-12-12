@@ -10,6 +10,8 @@ Unified Payments Interface (UPI) is an online payment application (app) that all
 
 > You can perform the UPI transaction through the supported bank’s app or third-party vendors like Bharat Interface for Money (BHIM), and so on. For a complete list of UPI enabled banks and third-party vendors, see UPI Live Members.
 
+![UPI](image.png)
+
 ## Salient Features of UPI
 
 1. Enables round the clock fund transfer on the same lines as IMPS
