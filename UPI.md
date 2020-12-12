@@ -10,7 +10,7 @@ Unified Payments Interface (UPI) is an online payment application (app) that all
 
 > You can perform the UPI transaction through the supported bank’s app or third-party vendors like Bharat Interface for Money (BHIM), and so on. For a complete list of UPI enabled banks and third-party vendors, see UPI Live Members.
 
-![UPI](image.png)
+![UPI](Image.png)
 
 ## Salient Features of UPI
 
@@ -20,3 +20,8 @@ Unified Payments Interface (UPI) is an online payment application (app) that all
 4. Hassle-free cash transaction options
 5. Daily transfer limit of 2 lakhs
 6. No hidden charges
+
+| Bank | IFSC Code |
+| --- | --- |
+| SBI | 001 |
+| CITI | 002 |
