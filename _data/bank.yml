@@ -1,5 +1,8 @@
-bank: ICICI
-code: 01
+- bank: ICICI
+  code: 01
 
-bank:Citi
-code: 02
+- bank: Citi
+  code: 02
+  
+- bank: HDFC
+  code: 03
