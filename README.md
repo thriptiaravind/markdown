@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # markdown clone
 Test repo for class
 # Person profile
