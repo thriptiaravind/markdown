@@ -1,8 +1,9 @@
 ---
 layout: template
+title: About Unified Payment Interface
 ---
 
-# About Unified Payment Interface
+# {{ page.title }}
 
 Unified Payments Interface (UPI) is an online payment application (app) that allows users to transfer funds between two banks without IFSC Code and beneficiary account number. You can link multiple [bank accounts](https://www.icicibank.com/) to a single platform, where you can send or receive funds using one of the following methods:
 
