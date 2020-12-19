@@ -1,3 +1,8 @@
+---
+layout: template
+---
+
+
 # Edited Thripti 
 
 # EDITED ABHINAB
