@@ -2,6 +2,7 @@
 layout: template
 ---
 
+{% for item in site.data.bank %} the bank is {{ item.bank }} and the code is {{ item.code}} {% endfor %} 
 # markdown clone
 Test repo for class
 # Person profile
