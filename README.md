@@ -1,4 +1,9 @@
-# markdown
+---
+layout: template
+---
+
+{% for item in site.data.bank %} The bank is {{ item.bank }} and the bank code is {{ item.code}} {% endfor %} 
+# markdown clone
 Test repo for class
 # Person profile
 My name is Caran D’Arche. I am a pencil, and I was born in **Geneva**. A few days after my birth, my family moved to **Bangalore**, where I went to school and college. I graduated top of my class from the Faber-Castell Architecture University, and interned as draughtsperson at Kohinoor Hardtmuth.
